@@ -21,6 +21,7 @@ I'm a passionate DevOps Engineer with a profound enthusiasm for Linux, DevOps pr
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=cc338b)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=cc338b)
+![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 <br>
 ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Library-Ethers%20JS-informational?style=flat&logo=ethereum&logoColor=white&color=cc338b)
