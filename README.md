@@ -28,7 +28,11 @@ I love connecting with and meeting new people<img src="assets/blob-sunglasses.gi
 <a href="https://twitter.com/mayour26"><img src="https://img.shields.io/badge/@mayour26-informational?style=flat&logo=twitter&logoColor=white&color=cc338b"></a>
 <a href="mailto:oluwaseun001@gmail.com"><img src="https://img.shields.io/badge/oluwaseun001@gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=6aa6f8"></a>
 
+## 📈 Github Stats
 
+[![Khemmie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oluadepe&show_icons=true&theme=dracula&hide=issues)](https://github.com/Oluadepe/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oluadepe&layout=compact&hide=c&langs_count=6)](https://github.com/Oluadepe/github-readme-stats)
 
 <!--
 **Oluadepe/Oluadepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
