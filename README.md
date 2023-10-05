@@ -30,7 +30,7 @@ I love connecting with and meeting new people<img src="assets/blob-sunglasses.gi
 
 ## 📈 Github Stats
 
-[![Khemmie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oluadepe&show_icons=true&theme=dracula&hide=issues)](https://github.com/Oluadepe/github-readme-stats)
+[![Oluadepe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oluadepe&show_icons=true&theme=dracula&hide=issues)](https://github.com/Oluadepe/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oluadepe&layout=compact&hide=c&langs_count=6)](https://github.com/Oluadepe/github-readme-stats)
 
