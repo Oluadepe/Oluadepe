@@ -4,12 +4,12 @@
 
 ### Hi there 👋
 <p>
-<article class="markdown-body entry-content container-lg f5" itemprop="text"> I'm Olusegun Mayungbe, a Software Engineer that lives on  in the 👩🏿‍💻 on the ☁️.
+<article class="markdown-body entry-content container-lg f5" itemprop="text"> I'm Olusegun Mayungbe, a Software Engineer who thrives in the digital realm, with a home in the world of cloud computing and coding. 🌐👨🏿‍💻 ☁️
 </p>
 
 <br>
 
-## 🙋🏾‍♂️ About Me
+## Ask me About 🙋🏾‍♂️ 
 I'm a passionate DevOps Engineer with a profound enthusiasm for Linux, DevOps practices, automation, and the ever-evolving cloud space. I thrive on optimizing software development and IT operations by implementing streamlined processes, championing continuous integration, and harnessing the power of cutting-edge cloud technologies. My track record includes driving innovation, enhancing system performance, and ensuring smooth deployment pipelines for efficient software delivery. I excel at collaborating with cross-functional teams to achieve agile development objectives while always adhering to industry best practices. I'm excited to contribute my expertise and foster innovation in a dynamic DevOps environment.
 
 <br>
