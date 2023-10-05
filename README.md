@@ -29,6 +29,11 @@ I'm a passionate DevOps Engineer with a profound enthusiasm for Linux, DevOps pr
 ![](https://img.shields.io/badge/Framework-TailwindCSS-informational?style=flat&logo=tailwindCSS&logoColor=white&color=cc338b)
 ![](https://img.shields.io/badge/Framework-Bootstrap5-informational?style=flat&logo=bootstrap&logoColor=white&color=6aa6f8)
 <br>
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white)
+![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+<br>
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=cc338b)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=6aa6f8)
