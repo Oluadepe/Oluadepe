@@ -44,8 +44,11 @@ I'm a passionate DevOps Engineer with a profound enthusiasm for Linux, DevOps pr
 ![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Library-Ethers%20JS-informational?style=flat&logo=ethereum&logoColor=white&color=cc338b)
 <br>
-![](https://img.shields.io/badge/Framework-TailwindCSS-informational?style=flat&logo=tailwindCSS&logoColor=white&color=cc338b)
-![](https://img.shields.io/badge/Framework-Bootstrap5-informational?style=flat&logo=bootstrap&logoColor=white&color=6aa6f8)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 <br>
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white)
