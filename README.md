@@ -26,7 +26,7 @@ I love connecting with and meeting new people<img src="assets/blob-sunglasses.gi
 <a href="https://www.linkedin.com/in/molusegun"><img src="https://img.shields.io/badge/Olusegun Mayungbe-informational?style=flat&logo=linkedin&logoColor=white&color=cc338b"></a>
 <a href="https://github.com/oluadepe"><img src="https://badgen.net/badge/icon/github?icon=github&label"></a>
 <a href="https://twitter.com/mayour26"><img src="https://img.shields.io/badge/@mayour26-informational?style=flat&logo=twitter&logoColor=white&color=cc338b"></a>
-<a href="mailto:oluwaseun001@gmail.com"></a>
+<a href="mailto:atokemmy@gmail.com"><img src="https://img.shields.io/badge/atokemmy@gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=6aa6f8"></a>
 
 
 
