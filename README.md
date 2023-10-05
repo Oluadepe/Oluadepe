@@ -14,6 +14,27 @@ I'm a passionate DevOps Engineer with a profound enthusiasm for Linux, DevOps pr
 
 <br>
 
+## 🔧Technology & Tools
+
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+<br>
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=cc338b)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=cc338b)
+![](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=6aa6f8)
+<br>
+![](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Library-Ethers%20JS-informational?style=flat&logo=ethereum&logoColor=white&color=cc338b)
+<br>
+![](https://img.shields.io/badge/Framework-TailwindCSS-informational?style=flat&logo=tailwindCSS&logoColor=white&color=cc338b)
+![](https://img.shields.io/badge/Framework-Bootstrap5-informational?style=flat&logo=bootstrap&logoColor=white&color=6aa6f8)
+<br>
+![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=cc338b)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=6aa6f8)
+
+<br>
+
 <p>
 - 👯 I’m looking to collaborate on DevOps Projects and roles both On-site and remote
 <p>
