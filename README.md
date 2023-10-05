@@ -52,8 +52,7 @@ I love connecting with and meeting new people<img src="assets/blob-sunglasses.gi
 ## 📈 Github Stats
 
 [![Oluadepe's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluadepe)](https://github.com/oluadepe/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oluadepe&layout=compact&hide=c&langs_count=6)](https://github.com/Oluadepe/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluadepe&langs_count=8)
 
 
 
