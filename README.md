@@ -4,26 +4,35 @@
 
 ### Hi there 👋
 <p>
-<article class="markdown-body entry-content container-lg f5" itemprop="text"> I'm Olusegun Mayungbe, a software engineer that lives on <img src="./asset/termina.svg"> in the ☁️
+<article class="markdown-body entry-content container-lg f5" itemprop="text"> I'm Olusegun Mayungbe, a software engineer that lives on  in the 👩🏿‍💻 on the ☁️
 </p>
 
 <br>
 
-I'm Enthusiastic about Linux, DevOps, Automation, and the Cloud Space. I have spent a few years as a Submarine Optical Network Engineer helping content providers move their content from Europe to Africa via the Submarine cable system. I have been able to deliver over 1.2Tbps of bandwidth on the Submarine and Terrestrial Optical systems.
-  I have always been interested in building hence me finding my way towards the Cloud and DevOps space.
+## 🙋🏾‍♂️ About Me
+My name is Olusegun Mayungbe. I'm a passionate DevOps Engineer with a profound enthusiasm for Linux, DevOps practices, automation, and the ever-evolving cloud space. I thrive on optimizing software development and IT operations by implementing streamlined processes, championing continuous integration, and harnessing the power of cutting-edge cloud technologies. My track record includes driving innovation, enhancing system performance, and ensuring smooth deployment pipelines for efficient software delivery. I excel at collaborating with cross-functional teams to achieve agile development objectives while always adhering to industry best practices. I'm excited to contribute my expertise and foster innovation in a dynamic DevOps environment.
 
-  <br>
+<br>
+
 <p>
-I am available and open to collaborating on DevOps Projects and roles both On-site and remote and I can be reached via <a href="akintunero101@gmail.com">akintunero101@gmail.com</a><br></p>
+- 👯 I’m looking to collaborate on DevOps Projects and roles both On-site and remote
+<p>
+</br>
 
-  <p>
-  </br>
+## 📫 Contact
+
+I love connecting with and meeting new people<img src="assets/blob-sunglasses.gif" alt="" style="width: 20px; height: 20px; vertical-align: middle;">. Connect with me let's talk about ideas, opportunities and random things. You can say hi to me on:
+
+<a href="https://www.linkedin.com/in/molusegun"><img src="https://img.shields.io/badge/Olusegun Mayungbe-informational?style=flat&logo=linkedin&logoColor=white&color=cc338b"></a>
+<a href="https://github.com/oluadepe"><img src="https://badgen.net/badge/icon/github?icon=github&label"></a>
+<a href="https://twitter.com/mayour26"><img src="https://img.shields.io/badge/@mayour26-informational?style=flat&logo=twitter&logoColor=white&color=cc338b"></a>
+<a href="mailto:oluwaseun001@gmail.com"><img src="https://img.shields.io/badge/atokemmy@gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=6aa6f8"></a>
 
 
 
 <!--
 **Oluadepe/Oluadepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 
 Here are some ideas to get you started:
 
@@ -35,3 +44,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
